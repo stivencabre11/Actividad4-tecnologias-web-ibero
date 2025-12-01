@@ -1,0 +1,11 @@
+{
+  "name": "frontend-tecnologias-web",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-router-dom": "^6.23.0",
+    "axios": "^1.7.0"
+  }
+}
